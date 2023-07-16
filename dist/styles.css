@@ -35,6 +35,7 @@ input::placeholder {
 input:focus {
     outline: 2px solid #2a77eb;
     outline-style: double;
+    z-index: 1;
 }
 
 input[name="fName"] {
